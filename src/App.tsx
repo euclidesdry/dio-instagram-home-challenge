@@ -1,15 +1,17 @@
 import React from 'react';
 
 import './assets/styles/style.css';
+import instagramLogo from './assets/img/instagram-logo.png';
+import instagramPhonesHome from './assets/img/instagram-celular.png';
 
 const App: React.FC = () => (
   <div className="instagram-wrapper">
     <div className="instagram-phone">
-        <img src="./img/instagram-celular.png" alt="Celular com a página do Insta" />
+        <img src={instagramPhonesHome} alt="Celular com a página do Insta" />
     </div>
     <div className="instagram-continue">
         <div className="group">
-            <img src="./img/instagram-logo.png" className="instagram-logo" alt="instagram logo" />
+            <img src={instagramLogo} className="instagram-logo" alt="instagram logo" />
             <div className="profile-photo">
                 <img src="https://github.com/euclidesdry.png" alt="Foto de Perfil - Euclides do Rosário" />
             </div>
