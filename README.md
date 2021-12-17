@@ -1,5 +1,5 @@
-# dio-instagram-home-challenge
- Doing the Challenge to Create Instagram's Home Page
+# Digital Innovation One Chanlenge: Instagram Home Page
+ Doing the Challenge to Create Instagram's Home Page with reactJS + BEMCSS + SMACSS + TypeScript + Babel + Webpack.
 
 ## REFERENCES
 
@@ -16,7 +16,7 @@ You can know how to do _Better CSS's_ project implementetions wiht [BEM CSS](htt
 See Babel documentation to set the TypeScript Web Transpiler in [Babel.IO](https://babeljs.io/).
 
 
-<img src=".readmeFiles/img/logo-webpack-on-white-bg.png" width="100">
+<img src=".readmeFiles/img/logo-webpack-on-white-bg.png" width="200">
 
 #### Webpack
 
