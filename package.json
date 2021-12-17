@@ -1,0 +1,22 @@
+{
+  "name": "instagram-home",
+  "version": "0.0.1",
+  "description": "Instagram Home Page Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euclidesdry/dio-instagram-home-challenge.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "euclidesdry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/euclidesdry/dio-instagram-home-challenge/issues"
+  },
+  "homepage": "https://github.com/euclidesdry/dio-instagram-home-challenge#readme"
+}

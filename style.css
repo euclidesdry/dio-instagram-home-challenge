@@ -54,6 +54,7 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
+    border-radius: 8px;
 }
 
 .group:nth-child(1) {
@@ -117,6 +118,8 @@ body {
     height: 3rem;
     width: 10rem;
     background-size: cover;
+    overflow: hidden;
+    border-radius: 8px;
 }
 
 .app-download:nth-child(1) {
